@@ -46,3 +46,4 @@ app-example
 .agent/skills/**
 .agents/skills/**
 .claude/skills/**
+skills-lock.json
